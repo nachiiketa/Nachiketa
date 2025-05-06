@@ -1,4 +1,5 @@
 # Nachiketa
 This is my first Git Repository
 <br>
-Author - Nachiketa Singh
+Author - Nachiketa Singh 
+Check the git status

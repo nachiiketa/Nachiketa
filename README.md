@@ -6,3 +6,6 @@ Author - Nachiketa Singh
 Check the git status
 <br>
 creating a new git status
+<br>
+finally learn how to create repo.
+
